@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Inventory Restocker\bin\Debug\Inventory Restocker.exe.config
+C:\Users\HP\source\repos\Inventory Restocker\bin\Debug\Inventory Restocker.exe
+C:\Users\HP\source\repos\Inventory Restocker\bin\Debug\Inventory Restocker.pdb
+C:\Users\HP\source\repos\Inventory Restocker\obj\Debug\Inventory Restocker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inventory Restocker\obj\Debug\Inventory Restocker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inventory Restocker\obj\Debug\Inventory Restocker.exe
+C:\Users\HP\source\repos\Inventory Restocker\obj\Debug\Inventory Restocker.pdb
